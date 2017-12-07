@@ -5,15 +5,11 @@ I have made this into a Jekyll Theme.
 
 The default theme would look like this
 
-![online cv Jekyll theme](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-jekyll-theme.png)
+![online cv Jekyll theme](https://github.com/kallioli/aws-resume/raw/master/assets/images/online-cv-jekyll-theme.png)
 
 The theme is responsive
 
-![online cv responsive Jekyll theme](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-responsive-jekyll-theme.png)
-
-There are 6 color schemes available
-
-![online cv Jekyll theme](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-jekyll-theme-2.png)
+![online cv responsive Jekyll theme](https://github.com/kallioli/aws-resume/raw/master/assets/images/online-cv-responsive-jekyll-theme.png)
 
 ## Installation
 * Fork the repository
