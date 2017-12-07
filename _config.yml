@@ -1,7 +1,7 @@
 # Site Settings
 title: My Resume
-url: 'https://kallioli.github.io'
-baseurl: '/aws-resume' #change it according to your repository name
+url: 'https://kevinallioli.com'
+baseurl: '' #change it according to your repository name
 
 style: styles-aws
 
