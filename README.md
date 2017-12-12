@@ -1,7 +1,7 @@
 This theme is designed by Kevin Allioli 
 
 I have made this into a Jekyll Theme.
-**Demo:** [http://webjeda.com/online-cv/](https://kallioli.github.io/aws-resume/)
+**Demo:** [https://kallioli.github.io/aws-resume/](https://kallioli.github.io/aws-resume/)
 
 The default theme would look like this
 
