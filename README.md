@@ -1,7 +1,7 @@
 This theme is designed by Kevin Allioli 
 
 I have made this into a Jekyll Theme.
-**Demo:** [http://webjeda.com/online-cv/](http://webjeda.com/online-cv/)
+**Demo:** [http://webjeda.com/online-cv/](https://kallioli.github.io/aws-resume/)
 
 The default theme would look like this
 
@@ -14,6 +14,6 @@ The theme is responsive
 ## Installation
 * Fork the repository
 * Go to settings and set Github Pages source as master.
-* Your new site should be ready at https://username.github.io/online-cv/
+* Your new site should be ready at https://username.github.io/aws-resume/
 
 Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com)
