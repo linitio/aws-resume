@@ -1,15 +1,15 @@
 This theme is designed by Kevin Allioli 
 
 I have made this into a Jekyll Theme.
-**Demo:** [https://kallioli.github.io/aws-resume/](https://kallioli.github.io/aws-resume/)
+**Demo:** [https://linitio.github.io/aws-resume/](https://linitio.github.io/aws-resume/)
 
 The default theme would look like this
 
-![online cv Jekyll theme](https://github.com/kallioli/aws-resume/raw/master/assets/images/online-cv-jekyll-theme.png)
+![online cv Jekyll theme](https://github.com/linitio/aws-resume/raw/master/assets/images/online-cv-jekyll-theme.png)
 
 The theme is responsive
 
-![online cv responsive Jekyll theme](https://github.com/kallioli/aws-resume/raw/master/assets/images/online-cv-responsive-jekyll-theme.png)
+![online cv responsive Jekyll theme](https://github.com/linitio/aws-resume/raw/master/assets/images/online-cv-responsive-jekyll-theme.png)
 
 ## Installation
 * Fork the repository
